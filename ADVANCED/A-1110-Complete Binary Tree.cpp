@@ -4,7 +4,8 @@
 
 using namespace std;
 
-typedef struct TREE{
+typedef struct TREE
+{
 	bool isroot;
 	int lChildID, rChildID;
 	int id;
